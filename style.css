@@ -144,7 +144,7 @@ body {
     margin: 0;
     color:white;
     opacity: 1;
-    font-size: calc(0.3vw + 0.4vh);
+    font-size: calc(0.55vw + 0.5vh);
     transition: opacity 0.8s ease-in 0.5s;
 }
 .panel.active .edutext .btecheducation {
